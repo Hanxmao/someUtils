@@ -13,3 +13,7 @@ function power(a,b){
 function substract(a,b){
     return a -b
 }
+
+function name(params) {
+    return params
+}
